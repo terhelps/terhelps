@@ -5,7 +5,7 @@ Strong interest in data analytics, data pipelines, and cloud-native platforms.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 `Python` `JavaScript` `PHP` `SQL` `HTML/CSS`
