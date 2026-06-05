@@ -1,4 +1,4 @@
-# Hi, I'm Terence 👋
+# Hi, I'm Terence
 
 **Business Analytics & Smart-city Management @ Singapore Management University**  
 Strong interest in data analytics, data pipelines, and cloud-native platforms.
